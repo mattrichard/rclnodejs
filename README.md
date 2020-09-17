@@ -69,7 +69,7 @@ In your node project, in addition to installing the rclnodejs package, you will 
 
 Your tsconfig.json file should include the following compiler options:
 
-```json
+```jsonc
 {
   "compilerOptions": {
     "module": "commonjs",
